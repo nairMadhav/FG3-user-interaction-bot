@@ -1,0 +1,95 @@
+{
+    "users":[
+        {
+            "username":"Venkata Jagadeesh",
+            "_id":1000,
+            "orders":[
+                {
+                    "id":1,
+                    "status":100,
+                    "desc":"Loli hentai magazine"
+                },
+                {
+                    "id":2,
+                    "status":200,
+                    "desc":"Megumin Body Pillow"
+                },
+                {
+                    "id":3,
+                    "status":0,
+                    "desc":"Java Advanced Data Structures Textbook"
+                }
+            ]
+        },
+        {
+            "username":"Naman Sood",
+            "_id":1001,
+            "orders":[
+                {
+                    "id":1,
+                    "status":300,
+                    "desc":"Dumbbell set"
+                },
+                {
+                    "id":2,
+                    "status":100,
+                    "desc":"Google Home Speaker"
+                }
+            ]
+        },
+        {
+            "username":"Darshan Chudiwal",
+            "_id":1002,
+            "orders":[
+                {
+                    "id":1,
+                    "status":300
+                },
+                {
+                    "id":2,
+                    "status":100
+                },
+                {
+                    "id":3,
+                    "status":0
+                },
+                {
+                    "id":4,
+                    "status":300
+                }
+            ]
+        },
+         {
+            "_id": 9159,
+            "username": "karen",
+            "orders": [
+              {
+                "id": 0,
+                "status": 300
+              },
+              {
+                "id": 1,
+                "status": 200
+              }
+            ]
+          },
+          {
+            "_id": 6253,
+            "username": "aisha",
+            "orders": [
+              {
+                "id": 0,
+                "status": 100
+              },
+              {
+                "id": 1,
+                "status": 200
+              },
+              {
+                "id": 2,
+                "status": 100
+              }
+            ]
+          }
+    ]
+}
