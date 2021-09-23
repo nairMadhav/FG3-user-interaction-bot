@@ -28,12 +28,12 @@
                 {
                     "id":1,
                     "status":300,
-                    "desc":"Dumbbell set"
+                    "desc":"Apple Pencil"
                 },
                 {
                     "id":2,
                     "status":100,
-                    "desc":"Google Home Speaker"
+                    "desc":"Apple iPad Air"
                 }
             ]
         },
@@ -43,19 +43,23 @@
             "orders":[
                 {
                     "id":1,
-                    "status":300
+                    "status":3,
+                    "desc":"Sony Headphones"
                 },
                 {
                     "id":2,
-                    "status":100
+                    "status":100,
+                    "desc":"Xiaomi Smart Speaker"
                 },
                 {
                     "id":3,
-                    "status":0
+                    "status":0,
+                    "desc":"RedMi Phone Case"
                 },
                 {
                     "id":4,
-                    "status":300
+                    "status":300,
+                    "desc":"Apple Magic Mouse"
                 }
             ]
         },
